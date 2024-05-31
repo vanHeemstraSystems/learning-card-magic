@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning - Security Controls"
+  title: "Learning - Card Magic"
   navbar:
     left:
       - href: index.qmd

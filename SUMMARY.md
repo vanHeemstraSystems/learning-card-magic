@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Security Controls](README.md)
+* [Learning Card Magic](README.md)
